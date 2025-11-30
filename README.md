@@ -1,3 +1,7 @@
+# Disclosure
+
+This Bio was written by GenAI using my chat history... :)
+
 # 👋 Hi, I'm Bryon
 
 I'm the sort of engineer who spins up Kubernetes clusters for fun, builds multi-GPU AI inference stacks before breakfast, and insists that YAML indentation *is* a personality trait. I spend most of my time tinkering with Linux, OpenShift, AI/ML model serving, and anything that involves distributed systems doing weird things across multiple networks.
