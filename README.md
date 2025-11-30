@@ -2,7 +2,7 @@
 
 I'm the sort of engineer who spins up Kubernetes clusters for fun, builds multi-GPU AI inference stacks before breakfast, and insists that YAML indentation *is* a personality trait. I spend most of my time tinkering with Linux, OpenShift, AI/ML model serving, and anything that involves distributed systems doing weird things across multiple networks.
 
-My home lab is suspiciously close to a small datacentre, and his idea of “taking a break” is writing another tool in Go or C to automate something nobody else realised needed automating.
+My home lab is suspiciously close to a small datacentre, and my idea of “taking a break” is writing another tool in Go or C to automate something nobody else realised needed automating.
 
 When I'm not explaining generative AI to humans (or machines), I'm usually playing guitar, breaking and unbreaking cluster networking, or discovering that yes, you *can* run far too many containers on a single node if you believe in yourself. I like building things that are fast, explainable, and reproducible—mostly so I can break them again on purpose.
 
